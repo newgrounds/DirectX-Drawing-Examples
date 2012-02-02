@@ -1,0 +1,13 @@
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\obj\x86\Debug\Assignment1.Properties.Resources.resources
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\obj\x86\Debug\Assignment1.Form1.resources
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\obj\x86\Debug\Assignment1.Form2.resources
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\obj\x86\Debug\Assignment1.Form3.resources
+C:\Users\Adam NU\Downloads\Northeastern Spring 2012\Computer Graphics\Assignment1\Assignment1\obj\x86\Debug\Assignment1.Form4.resources
