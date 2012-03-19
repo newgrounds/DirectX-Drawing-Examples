@@ -82,7 +82,7 @@ namespace Assignment1
             for (int i = 0; i < 99; i++)
             {
                 float angle = (float)(i / 100.0 * Math.PI * 2);
-                vs[i].Position = new Vector4((float)x + (float)Math.Cos(angle) * r, y + (float)Math.Sin(angle) * r, 0, 1.0f);
+                vs[i].Position = new Vector4(x + (float)Math.Cos(angle) * r, y + (float)Math.Sin(angle) * r, 0, 1.0f);
                 vs[i].Color = col;
             }
             vs[99] = vs[0];
